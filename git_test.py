@@ -4,8 +4,8 @@
 
 HEAD
 print("I am a beginner with Git and making changes") 
-prin("New line!")
+prin("New line!!")
 
 print("I am a beginner with Git and making changes!!") 
-print("New line!")
+print("New line!!")
 development
